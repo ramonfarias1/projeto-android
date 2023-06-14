@@ -1,6 +1,6 @@
 # Projeto Android🤖
 
-![GIF do Projeto](https://github.com/ramonfarias1/projeto-android/blob/main/images/interface.gif)
+![GIF Demonstrativo](https://github.com/ramonfarias1/projeto-android/blob/main/images/interface.gif)
 
 ## Sobre📄
 
