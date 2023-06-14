@@ -6,7 +6,7 @@
 
 Projeto criado no módulo 2 do curso de HTML5 e CSS3 do Curso em Vídeo, ministrado pelo professor Gustavo Guanabara.
 
-Um modelo de blog simples que fala sobre curiosidades do sistema operacional android.
+Um modelo de blog simples que fala sobre curiosidades e notícias do sistema operacional android.
 
 [Clique aqui para ir ao site do projeto](https://ramonfarias1.github.io/projeto-android/)
 
